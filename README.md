@@ -1,3 +1,5 @@
+### Автор: Фазлмемет Энвер Нариманович
+### Группа: ПИ-Б-О-242(2)
 ### Контесты 2023:
 - [Практика №1](https://github.com/Teru3301/KFU/blob/main/Contests/Contest-2023-09-12/README.md)
 - [Практика №2](https://github.com/Teru3301/KFU/blob/main/Contests/Contest-2023-09-19/README.md)
