@@ -4,7 +4,7 @@ https://contest.yandex.ru/contest/52676/problems/
 
 | Задание | Решение | Язык |
 | --- | --- | --- |
-| [1. Функция. Простое число](https://contest.yandex.ru/contest/52676/problems/1/) | [answer.cpp](https://github.com/Teru3301/KFU/blob/main/Contests/Contest-2023-09-19/01/answer.cpp) | [<img src="https://github.com/enikk500/CFU/blob/main/img/goland%20icon.png" width="60"/>]() |
+| [1. Функция. Простое число](https://contest.yandex.ru/contest/52676/problems/1/) | [answer.cpp](https://github.com/Teru3301/KFU/blob/main/Contests/Contest-2023-09-19/01/answer.cpp) | [<img src="https://github.com/enikk500/CFU/blob/main/img/2024-11-14%2023.13.40.png" width="60"/>]() |
 | [2. Функция. Выход из лабиринта](https://contest.yandex.ru/contest/52676/problems/2/) | [answer.cpp](https://github.com/Teru3301/KFU/blob/main/Contests/Contest-2023-09-19/02/answer.cpp) | [<img src="https://github.com/Teru3301/KFU/blob/main/img/cpp.png" width="40"/>]() |
 | [3. Функция. Сортировка по количеству единиц](https://contest.yandex.ru/contest/52676/problems/3/) | [answer.cpp](https://github.com/Teru3301/KFU/blob/main/Contests/Contest-2023-09-19/03/answer.cpp) | [<img src="https://github.com/Teru3301/KFU/blob/main/img/cpp.png" width="40"/>]() |
 | [4. Функция. Сумма дробей](https://contest.yandex.ru/contest/52676/problems/4/) | [answer.cpp](https://github.com/Teru3301/KFU/blob/main/Contests/Contest-2023-09-19/04/answer.cpp) | [<img src="https://github.com/Teru3301/KFU/blob/main/img/cpp.png" width="40"/>]() |
