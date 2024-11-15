@@ -34,10 +34,10 @@
 [Решение б](https://github.com/enikk500/CFU/blob/main/SiAOD/pz-02/task-09/b/main.cpp)
 
 #### 10.
-[Решение а](https://github.com/Teru3301/KFU/blob/main/SiAOD/pz-02/task-10/a/main.cpp)
-[Решение б](https://github.com/Teru3301/KFU/blob/main/SiAOD/pz-02/task-10/b/main.cpp)
-[Решение в](https://github.com/Teru3301/KFU/blob/main/SiAOD/pz-02/task-10/c/main.cpp)
-[Решение г](https://github.com/Teru3301/KFU/blob/main/SiAOD/pz-02/task-10/d/main.cpp)
+[Решение а](https://github.com/enikk500/CFU/blob/main/SiAOD/pz-02/task-10/a/main.cpp)
+[Решение б](https://github.com/enikk500/CFU/blob/main/SiAOD/pz-02/task-10/b/main.cpp)
+[Решение в](https://github.com/enikk500/CFU/blob/main/SiAOD/pz-02/task-10/c/main.cpp)
+[Решение г](https://github.com/enikk500/CFU/blob/main/SiAOD/pz-02/task-10/d/main.cpp)
 
 #### 11.
 [Решение а](https://github.com/enikk500/CFU/blob/main/SiAOD/pz-02/task-11/a/main.cpp)
