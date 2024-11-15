@@ -1,27 +1,27 @@
 package main
-import (
-    "bufio"
-    "fmt"
-    "os"
-)
+import "fmt"
+
+const rows int = 9
+const cols int = 9
 
 // Ваш код будет вставлен сюда
-import "strings"
+func isValidSudoku(bord [rows][cols]int) bool {
 
-func isPalindrome(line string) bool {
-	line = strings.ToLower(line)
-
-	for i := 0; i < 'a'; i++ {
-		line = strings.ReplaceAll(line, (string)(i), "")
+	for y := 0; y < rows; y++ {
+		var sum int = 0
+		for x := 0; x < cols; x++ {
+			sum += bord[y][x]
+		}
+		if sum != 45 {
+			return false
+		}
 	}
-    for i := 'z' + 1; i <= 255; i++ {
-		line = strings.ReplaceAll(line, (string)(i), "")
-	}
-
-	var ln = len(line) - 1
-
-	for i := 0; i < (len(line) / 2); i++ {
-		if line[i] != line[ln-i] {
+	for x := 0; x < cols; x++ {
+		var sum int = 0
+		for y := 0; y < rows; y++ {
+			sum += bord[y][x]
+		}
+		if sum != 45 {
 			return false
 		}
 	}
@@ -31,8 +31,17 @@ func isPalindrome(line string) bool {
 
 
 func main() {
-    line, _  := bufio.NewReader(os.Stdin).ReadString('\n')
-    if isPalindrome( line[:len(line)-1] ){  // Обрезаем \n в конце строки
+    var bord [rows][cols]int
+    
+    for row:=0; row < rows; row++ {
+        for col:=0; col < cols; col++ {
+            fmt.Scanf("%c", &bord[row][col])  // Считываем один символ
+            bord[row][col] -= '0'  // Чтобы из ASCII кода символа получить цифру
+        }
+        fmt.Scanf("\n")
+    }
+    
+    if isValidSudoku(bord){
         fmt.Println("YES")
     }else{
         fmt.Println("NO")

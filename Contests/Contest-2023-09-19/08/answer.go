@@ -1,19 +1,20 @@
-import "strings"
+func isValidSudoku(bord [rows][cols]int) bool {
 
-func isPalindrome(line string) bool {
-	line = strings.ToLower(line)
-
-	for i := 0; i < 'a'; i++ {
-		line = strings.ReplaceAll(line, (string)(i), "")
+	for y := 0; y < rows; y++ {
+		var sum int = 0
+		for x := 0; x < cols; x++ {
+			sum += bord[y][x]
+		}
+		if sum != 45 {
+			return false
+		}
 	}
-    for i := 'z' + 1; i <= 255; i++ {
-		line = strings.ReplaceAll(line, (string)(i), "")
-	}
-
-	var ln = len(line) - 1
-
-	for i := 0; i < (len(line) / 2); i++ {
-		if line[i] != line[ln-i] {
+	for x := 0; x < cols; x++ {
+		var sum int = 0
+		for y := 0; y < rows; y++ {
+			sum += bord[y][x]
+		}
+		if sum != 45 {
 			return false
 		}
 	}
