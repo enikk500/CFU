@@ -13,7 +13,7 @@
 - [Test №1](https://github.com/enikk500/CFU/blob/main/Tests/trial-test-1/README.md)
 - [Test №2](https://github.com/enikk500/CFU/blob/main/Tests/trial-test-2/README.md)
 - [Test №3](https://github.com/enikk500/CFU/blob/main/Tests/trial-test-3/README.md)
-- [Test №4](comming soon... )
+- Test №4 comming soon...
 
 ### SiAOD
 - [Practice №1](https://github.com/enikk500/CFU/blob/main/SiAOD/pz-01/README.md) 
