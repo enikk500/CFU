@@ -14,4 +14,4 @@ Working with `.json` in GoLang
 - [Website](https://gobyexample.com/json)
 
 What is CSV
-- [YouTube](https://youtube/TaKgLa8Xk_U?si=lJhWdlD7VbkYrPvY)
+- [YouTube](https://youtu.be/TaKgLa8Xk_U?si=lJhWdlD7VbkYrPvY)
