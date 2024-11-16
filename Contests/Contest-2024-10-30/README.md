@@ -1,5 +1,5 @@
 # [__```Вернуться к корневому README```__](https://github.com/enikk500/CFU/blob/main/README.md)
-# Контест 7
+# Контест 8
 https://contest.yandex.ru/contest/70345/problems/
 
 | Задание | Решение | Язык |
