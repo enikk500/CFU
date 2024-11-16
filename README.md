@@ -9,7 +9,7 @@
 - [Practice №5](https://github.com/enikk500/CFU/blob/main/Contests/Contest-2024-10-09/README.md)
 - [Practice №6](https://github.com/enikk500/CFU/blob/main/Contests/Contest-2024-10-16/README.md)
 - [Practice №7](https://github.com/enikk500/CFU/blob/main/Contests/Contest-2024-10-23/README.md)
-
+- [Practice №8](https://github.com/enikk500/CFU/blob/main/Contests/Contest-2024-10-30/README.md)
 ### Trial test
 - [Test №1](https://github.com/enikk500/CFU/blob/main/Tests/trial-test-1/README.md)
 - [Test №2](https://github.com/enikk500/CFU/blob/main/Tests/trial-test-2/README.md)
