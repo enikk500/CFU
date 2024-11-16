@@ -2,7 +2,7 @@
 
 #include <cmath>
 
-double brute_force (double x, double e)
+double brute_force(double x, double e)
 {
 	double res = 0;
 	double member = x;
