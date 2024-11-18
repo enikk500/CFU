@@ -10,13 +10,12 @@
 - [Practice №6](https://github.com/enikk500/CFU/blob/main/Contests/Contest-2024-10-16/README.md)
 - [Practice №7](https://github.com/enikk500/CFU/blob/main/Contests/Contest-2024-10-23/README.md)
 - [Practice №8](https://github.com/enikk500/CFU/blob/main/Contests/Contest-2024-10-30/README.md)
-- [Practice №9](https://github.com/enikk500/CFU/blob/main/Contests/Contest-2024-10-30/README.md)
+- [Practice №9](https://github.com/enikk500/CFU/blob/main/Contests/Contest-2024-11-06/README.md)
 ### Trial test
 - [Test №1](https://github.com/enikk500/CFU/blob/main/Tests/trial-test-1/README.md)
 - [Test №2](https://github.com/enikk500/CFU/blob/main/Tests/trial-test-2/README.md)
 - [Test №3](https://github.com/enikk500/CFU/blob/main/Tests/trial-test-3/README.md)
-- Test №4 comming soon...
-
+- [Test №4](13123121)
 ### SiAOD
 - [Practice №1](https://github.com/enikk500/CFU/blob/main/SiAOD/pz-01/README.md) 
 - [Practice №2](https://github.com/enikk500/CFU/blob/main/SiAOD/pz-02/README.md) 
