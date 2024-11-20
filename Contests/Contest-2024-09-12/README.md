@@ -4,9 +4,9 @@ https://contest.yandex.ru/contest/67794/problems/
 
 | Задание | Решение | Язык |
 | --- | --- | --- |
-| [1. Приближенное значение Пи](https://contest.yandex.ru/contest/67794/problems/1/) | [main.cpp](https://github.com/enikk500/CFU/blob/main/Contests/Contest-2024-09-12/01/main.cpp) | [<img src="https://github.com/enikk500/CFU/blob/main/img/frolik.jpg" width="100"/>]() |
-| [2. Кислород](https://contest.yandex.ru/contest/67794/problems/2/) | [main.go](https://github.com/enikk500/CFU/blob/main/Contests/Contest-2024-09-12/02/main.go) | [<img src="https://github.com/enikk500/CFU/blob/main/img/frolik.jpg" width="40"/>]() |
-| [3. Частное](https://contest.yandex.ru/contest/67794/problems/3/) | [main.cpp](https://github.com/enikk500/CFU/blob/main/Contests/Contest-2024-09-12/03/main.cpp) | [<img src="https://github.com/enikk500/CFU/blob/main/img/frolik.jpg" width="40"/>]() |
+| [1. Приближенное значение Пи](https://contest.yandex.ru/contest/67794/problems/1/) | [main.cpp](https://github.com/enikk500/CFU/blob/main/Contests/Contest-2024-09-12/01/main.cpp) | [<img src="https://github.com/enikk500/CFU/blob/main/img/cpp.png" width="40"/>]() |
+| [2. Кислород](https://contest.yandex.ru/contest/67794/problems/2/) | [main.go](https://github.com/enikk500/CFU/blob/main/Contests/Contest-2024-09-12/02/main.go) | [<img src="https://github.com/enikk500/CFU/blob/main/img/go.jpg" width="40"/>]() |
+| [3. Частное](https://contest.yandex.ru/contest/67794/problems/3/) | [main.cpp](https://github.com/enikk500/CFU/blob/main/Contests/Contest-2024-09-12/03/main.cpp) | [<img src="https://github.com/enikk500/CFU/blob/main/img/cpp.png" width="40"/>]() |
 | [4. Произведение](https://contest.yandex.ru/contest/67794/problems/4/) | [main.go](https://github.com/enikk500/CFU/blob/main/Contests/Contest-2024-09-12/04/main.go) | [<img src="https://github.com/enikk500/CFU/blob/main/img/go.jpg" width="40"/>]() |
 | [5. Индекс массы тела](https://contest.yandex.ru/contest/67794/problems/5/) | [main.cpp](https://github.com/enikk500/CFU/blob/main/Contests/Contest-2024-09-12/05/main.cpp) | [<img src="https://github.com/enikk500/CFU/blob/main/img/cpp.png" width="40"/>]() |
 | [6. Банкомат](https://contest.yandex.ru/contest/67794/problems/6/) | [main.go](https://github.com/enikk500/CFU/blob/main/Contests/Contest-2024-09-12/06/main.go) | [<img src="https://github.com/enikk500/CFU/blob/main/img/go.jpg" width="40"/>]() |
