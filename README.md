@@ -24,7 +24,6 @@
 - [Practice №4](https://github.com/enikk500/CFU/blob/main/SiAOD/pz-04/README.md)
 - [Practice №5](https://github.com/enikk500/CFU/blob/main/SiAOD/pz-05/README.md)
 - [Practice №6](https://github.com/enikk500/CFU/blob/main/SiAOD/pz-06/README.md)
-- [Practice №7](https://github.com/enikk500/CFU/blob/main/SiAOD/pz-07/README.md)
 
 ### Useful sources
 - [Here](https://github.com/enikk500/CFU/blob/main/useful-sources.md)
