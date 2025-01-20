@@ -13,6 +13,8 @@
 - [Practice №9](https://github.com/enikk500/CFU/blob/main/Contests/Contest-2024-11-06/README.md)
 ### Trial questions for the exam on A&P
 - [Here](https://github.com/enikk500/CFU/blob/main/Exam%20A%26P/trial-exam-test/README.md)
+### Exam task
+- [Here]()
 ### Test for defense 3 practical
 - [Here](https://github.com/enikk500/CFU/blob/main/Tests/test-pr-3/README.md)
 ### Trial test
